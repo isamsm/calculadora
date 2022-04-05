@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+form {
+    padding: 18em 18em;
+    text-align: center;
+}
+
+div {
+    padding: 0.6em;
+    padding-right: 0.4em;
+}
+
+h2, p {
+    color: purple;
+    font-size: 1.3em;
+}
+
+
